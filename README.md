@@ -49,7 +49,7 @@ Npm v6.13.4+
 
 ---
 
-This project is under the MIT license. Read morea [LICENÇA](https://github.com/Alexsandrogms/be-the-hero/LICENSE.md) for details.
+This project is under the MIT license. Read morea [LICENÇA](https://github.com/Alexsandrogms/be-the-hero/blob/master/LICENSE.md) for details.
 
 ---
 
