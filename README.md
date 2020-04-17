@@ -45,7 +45,7 @@ Npm v6.13.4+
 - [Nodejs](https://nodejs.org/en/) - (Express, Cors, knex, celebrate, jest e supertest)
 - [ReactJS](https://pt-br.reactjs.org/) (React-dom, React-router-dom e axios),
 - [React Native](https://reactnative.dev/) (Expo, axios e expo-constants/mail-composer)
-- [SLQlite3](https://www.sqlite.org/index.html) - Banco de dados
+- [SLQlite3](https://www.sqlite.org/index.html) - Database
 
 ---
 
